@@ -1,4 +1,4 @@
-![alt text](https://github.com/prathamaeron/CMC-MOBILE/blob/main/assets/CMCLogoBlack%402x.png)
+![alt text](https://github.com/prathamaeron/CMC-MOBILE/blob/main/assets/CMCLogoWhite%403x.png)
 
 # Car Motion Calculator
 
