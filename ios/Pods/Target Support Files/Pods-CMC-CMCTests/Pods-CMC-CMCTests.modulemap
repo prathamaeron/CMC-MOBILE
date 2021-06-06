@@ -1,0 +1,6 @@
+module Pods_CMC_CMCTests {
+  umbrella header "Pods-CMC-CMCTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
