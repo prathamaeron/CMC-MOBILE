@@ -1,3 +1,5 @@
+![alt text](https://github.com/prathamaeron/CMC-MOBILE/blob/main/assets/CMCLogoBlack%402x.png)
+
 # Car Motion Calculator
 
 Car Motion Calculator is an application which aims to aid future F1 in Schools Teams to virtually estimate the race time of their concept cars. This application will allow the teams to quickly shortlist concept ideas. We aim to fulfil the following through the development of this mobile application:
